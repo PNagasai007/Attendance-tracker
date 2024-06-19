@@ -1,0 +1,17 @@
+/* src/components/Main.css */
+.min-vh-100 {
+    min-height: 100vh;
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .register-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: black !important;
+   
+  }
